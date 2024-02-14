@@ -8,17 +8,14 @@ Billify is a powerful yet easy-to-use supermarket billing software built with Py
 
 **Manager superpowers:**
 
-*  Secure login for authorized personnel.
-*  Create new bills seamlessly.
+* 🔐 Secure login for authorized personnel.
+* 🧾 Create new bills seamlessly.
 * ➕ Add new products with details and manage existing ones effortlessly.
-*  Edit product quantities and prices with precision.
-
-**Customer convenience at its finest:**
-
+* 👨🏻‍💻 Edit product quantities and prices with precision.
 *  Easily choose new or existing customers.
 * 🆕 Register new customers quickly and efficiently.
 *  Find existing customers instantly using their phone number.
-*  Real-time product quantity updates reflect every purchase accurately.
+* ⌛️ Real-time product quantity updates reflect every purchase accurately.
 
 **Database muscle:**
 
