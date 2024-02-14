@@ -2,19 +2,19 @@
 
 **What is Billify?**
 
-Billify is a powerful yet easy-to-use supermarket billing software built with Python and Tkinter. It empowers managers with a user-friendly interface to streamline billing, inventory management, and customer interactions.
+Billify is a powerful yet easy-to-use supermarket billing software built with Python and Tkinter. It empowers managers with a user-friendly interface to streamline billing, inventory management, and customer information.
 
 **Key Features:**
 
 **Manager superpowers:**
 
-* 🔐 Secure login for authorized personnel.
+* 🔐 Secure login for authorized personel.
 * 🧾 Create new bills seamlessly.
 * ➕ Add new products with details and manage existing ones effortlessly.
 * 👨🏻‍💻 Edit product quantities and prices with precision.
 *  Easily choose new or existing customers.
 * 🆕 Register new customers quickly and efficiently.
-*  Find existing customers instantly using their phone number.
+* 📱 Find existing customers instantly using their phone number.
 * ⌛️ Real-time product quantity updates reflect every purchase accurately.
 
 **Database muscle:**
